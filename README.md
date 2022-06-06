@@ -1,9 +1,7 @@
 ![](https://img.shields.io/badge/Microverse-blueviolet)
 
-# math-magicians
+# Todo-list-using react
 
-Math magicians is a single page application that features three pages: A Home page with some welcoming textx, A Calculator page which has a page with a calculator that you can o math with and a Quotes page which has a quote about what "Math magicians are".
-Enjoy!
 
 ## Built With
 
@@ -15,7 +13,7 @@ Enjoy!
 - Linters
 
 ## Live Demo (if available)
-[Live Demo Link](https://abiodunraheem.github.io/math-magicians/)
+[Live Demo Link](https://abiodunraheem.github.io/todo-list-with-react/)
 
 ## Getting Started
 
@@ -25,11 +23,11 @@ To get a local copy up and running follow these simple example steps.
 
 In your terminal, navigate to your current directory and run this code
 
-`git@github.com:abiodunraheem/math-magicians.git`
+`git@github.com:abiodunraheem/todo-list-with-react.git`
 
 Locate the directory in your file explorer
 
-`cd math-magicians`
+`cd todo-list-with-react`
 
 Install npm or if installed already using this link
 
@@ -49,7 +47,7 @@ The Project should now be live on your browser
 
 Contributions, issues, and feature requests are welcome!
 
-Feel free to check the [issues page](https://github.com/abiodunraheem/math-magicians/issues).
+Feel free to check the [issues page](https://github.com/abiodunraheem/todo-list-with-react/issues).
 
 ## Show your support
 
