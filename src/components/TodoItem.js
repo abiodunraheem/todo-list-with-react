@@ -3,6 +3,7 @@ import PropTypes from 'prop-types';
 
 const TodoItem = ({ todo }) => (
   <li>
+    <input type="checkbox" checked={todo.completed} onChange={() => todo.handleChangeProps(todo.id)} />
     {todo.title}
     {' '}
   </li>
